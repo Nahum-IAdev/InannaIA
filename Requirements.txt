@@ -1,0 +1,6 @@
+```
+Flask==2.0.2
+Flask-SocketIO==5.1.1
+nltk==3.7
+numpy==1.21.4
+```
